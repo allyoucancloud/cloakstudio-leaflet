@@ -88,7 +88,7 @@ CloakStudio themes are built on a standard design-token system, not one-off CSS 
 
 ## About
 
-CloakStudio comes from the same team behind AYCC Auth's own authentication experience, so it's designed around real Keycloak deployments, not just theory. Already using AYCC Auth? CloakStudio works there too, alongside any other Keycloak instance you run.
+CloakStudio is part of the AYCC Auth's own authentication module, so it's designed around real Keycloak deployments, not just theory. Already using AYCC Auth? CloakStudio works there too, alongside any other Keycloak instance you run.
 
 Stop maintaining your custom Keycloak theme by hand. Design once with CloakStudio, and we'll keep it compatible with Keycloak as it evolves.
 
@@ -116,7 +116,7 @@ Brand managers, designers, product owners and admins, not just developers.
 
 CloakStudio is a hosted product — there's nothing to clone or build here.
 
-1. Buy CloakStudio
+1. Download AYCC Auth
 2. Connect it to your existing Keycloak instance, or let it set one up for you
 3. Design your theme visually and deploy it to your realm
 
