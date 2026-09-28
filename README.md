@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="https://allyoucancloud.com/">Website</a> ·
-  <a href="INSERT-CLOAKSTUDIO-URL">Docs</a> ·
   <a href="#getting-started">Getting started</a>
 </p>
 
@@ -115,10 +114,10 @@ Brand managers, designers, product owners and admins, not just developers.
 
 CloakStudio is a hosted product — there's nothing to clone or build here.
 
-1. [Try CloakStudio →](INSERT-CLOAKSTUDIO-URL)
+1. Buy CloakStudio
 2. Connect it to your existing Keycloak instance, or let it set one up for you
 3. Design your theme visually and deploy it to your realm
 
 ## License
 
-This repository (documentation only) is © All You Can Cloud. CloakStudio is a commercial product — see the [website](INSERT-CLOAKSTUDIO-URL) for details and terms.
+This repository (documentation only) is © All You Can Cloud. CloakStudio is a commercial product — see the [website](https://allyoucancloud.com) for details and terms.
