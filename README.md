@@ -23,6 +23,8 @@ CloakStudio is a **Keycloak theme builder**: a fully visual, drag-and-drop tool 
 
 CloakStudio works with the Keycloak instance you already have, or sets one up for you if you don't. From there, you design every page in the authentication flow with a live preview on desktop, tablet and mobile, and deploy straight to your realm through one guided flow: design, connect, deploy, done.
 
+Once deployed, these are the exact pages your users see whenever they to log in, sign up or reset a password on your app. They land on the screens you designed, not on Keycloak's default ones.
+
 ## Is branding in authentication even important?
 
 Whether it's an employee logging into an internal tool or a customer signing into your product, seeing the same logo, colors and tone every time reinforces the company's image. Every login becomes more consistent, and that leaves a more positive picture of your brand over time.
