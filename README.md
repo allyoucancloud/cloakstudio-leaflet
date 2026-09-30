@@ -122,4 +122,4 @@ CloakStudio is a hosted product — there's nothing to clone or build here.
 
 ## License
 
-This repository (documentation only) is © All You Can Cloud. CloakStudio is a commercial product — see the [website](https://allyoucancloud.com) for details and terms.
+This repository (documentation only) is © All You Can Cloud. CloakStudio is a commercial product — see the [website](https://allyoucancloud.com) for details and terms. Visit our [Discord](https://discord.gg/Cts298wkY) to check out our product's documentation and to stay updated!
