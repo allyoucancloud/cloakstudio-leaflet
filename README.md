@@ -12,6 +12,10 @@
   <img alt="Product type" src="https://img.shields.io/badge/type-commercial%20product-f0b429">
 </p>
 
+
+https://github.com/user-attachments/assets/fa9d581d-ebf7-4d8c-93c5-26475816b1e9
+
+
 ---
 
 > **About this repository.** CloakStudio is a hosted, commercial product — this repository is a documentation and reference page, not the application's source code. Use the links above to try it or read the full docs.
